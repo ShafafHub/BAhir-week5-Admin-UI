@@ -1,3 +1,31 @@
+# Catalog Admin UI Project
+
+This is a management dashboard project built with **React** and **Vite**, designed for handling product catalogs and administrative tasks.
+
+## Key Features & Recent Updates
+
+The following features have been successfully implemented in this branch:
+
+### 1. Multi-language Support (Localization)
+
+- Integrated a language switcher to allow users to toggle between different languages (e.g., English and Persian).
+- Dynamic UI text updates based on the selected locale.
+
+### 2. Search by ID Functionality
+
+- Added a specialized search filter in the **FilterBar** component.
+- Enables administrators to quickly locate specific records using their unique **Identification (ID)**.
+- Improved data retrieval speed and user efficiency.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Install dependencies:**
+   ```bash
+   pnpm install
+   ```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
