@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className={`container ${language === "fa" ? "rtl" : "ltr"}`}>
-      {/* change butun*/}
+      {/* change buttun*/}
       <div
         className="lang-switcher"
         style={{ textAlign: language === "fa" ? "left" : "right" }}
